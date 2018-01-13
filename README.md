@@ -13,7 +13,7 @@ Create your Wep App for Google Chrome.<br />
 ***
 #### Installation
 ```
-$ git clone https://github.com/KevinPy/APPNAME.git
+$ git clone https://github.com/KevinPy/chrome-extension.git
 $ cd chrome-extension
 $ npm install
 ```
