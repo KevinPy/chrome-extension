@@ -1,4 +1,4 @@
-(Chrome Extension screenshot)[https://kevinpy.com/Projects/Chrome-Extension/out/chrome-extension-screenshot.png]
+[Chrome Extension screenshot](https://kevinpy.com/Projects/Chrome-Extension/out/chrome-extension-screenshot.png)
 # Chrome Extension Boilerplate
 Create your Wep App for Google Chrome.<br />
 <br />
